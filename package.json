@@ -1,0 +1,22 @@
+{
+  "name": "frutas",
+  "version": "1.0.0",
+  "description": "API de frutas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francisco-pixel/frutas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francisco-pixel/frutas/issues"
+  },
+  "homepage": "https://github.com/Francisco-pixel/frutas#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
